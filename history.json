@@ -1,0 +1,139 @@
+{
+  "limit": 20,
+  "has_more": false,
+  "data": [
+    {
+      "id": "ff40ea32-12f3-489d-b0c8-dd756122c70f",
+      "conversation_id": "5fbd6e56-88d6-4d0d-8c76-1e336ddd8669",
+      "parent_message_id": "00000000-0000-0000-0000-000000000000",
+      "query": "你好",
+      "answer": "您好！我是海尔商城的购物助手，很高兴为您服务。\n\n如果您已经看好了哪台商品，可以把它的 **SKU** 发给我，我帮您查详细参数和卖点；如果想对比几台，也可以把它们的 SKU 一起发来。\n\n请问有什么可以帮您的？",
+      "feedback": {
+        "rating": "like"
+      },
+      "retriever_resources": [],
+      "created_at": 1794768519,
+      "agent_thoughts": [],
+      "message_files": [],
+      "message_tokens": 6686,
+      "answer_tokens": 114,
+      "provider_response_latency": 5.066490016877651,
+      "total_price": "0.0487677",
+      "currency": "RMB",
+      "status": "normal",
+      "error": null,
+      "extra_contents": [],
+      "total_tokens": 6800
+    },
+    {
+      "id": "ad6fac8f-c67b-48c9-a6e7-8225944deaba",
+      "conversation_id": "5fbd6e56-88d6-4d0d-8c76-1e336ddd8669",
+      "parent_message_id": "00000000-0000-0000-0000-000000000000",
+      "query": "你好",
+      "answer": "您好！我是海尔商城的购物助手，很高兴为您服务。\n\n如果您已经看好了哪台商品，可以把它的 **SKU** 发给我，我帮您查详细参数和卖点；如果想对比几台，也可以把它们的 SKU 一起发来。\n\n请问有什么可以帮您的？",
+      "feedback": null,
+      "retriever_resources": [],
+      "created_at": 1794769321,
+      "agent_thoughts": [],
+      "message_files": [],
+      "message_tokens": 6822,
+      "answer_tokens": 114,
+      "provider_response_latency": 6.159941993653774,
+      "total_price": "0.0496493",
+      "currency": "RMB",
+      "status": "normal",
+      "error": null,
+      "extra_contents": [],
+      "total_tokens": 6936
+    },
+    {
+      "id": "7c6ca829-3b35-4838-8042-dd4653dfc9ba",
+      "conversation_id": "5fbd6e56-88d6-4d0d-8c76-1e336ddd8669",
+      "parent_message_id": "00000000-0000-0000-0000-000000000000",
+      "query": "滤芯",
+      "answer": "找滤芯、配件，要先认准是哪台机器：可以点上面的扫码，扫一下机身铭牌上的条码；也可以直接把机器的型号发给我。",
+      "feedback": null,
+      "retriever_resources": [],
+      "created_at": 1794769594,
+      "agent_thoughts": [],
+      "message_files": [],
+      "message_tokens": 3170,
+      "answer_tokens": 38,
+      "provider_response_latency": 1.6009827703237534,
+      "total_price": "0.0026386",
+      "currency": "RMB",
+      "status": "normal",
+      "error": null,
+      "extra_contents": [],
+      "total_tokens": 3208,
+      "extraData": [
+        {
+          "pos": 0,
+          "type": "block_data",
+          "data": {
+            "component": "scan_entry",
+            "data": {
+              "part_type": "consumable"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "a6a7665a-eb38-40a6-aa10-5bfe196151d2",
+      "conversation_id": "5fbd6e56-88d6-4d0d-8c76-1e336ddd8669",
+      "parent_message_id": "00000000-0000-0000-0000-000000000000",
+      "query": "滤芯",
+      "answer": "找滤芯、配件，要先认准是哪台机器：可以点上面的扫码，扫一下机身铭牌上的条码；也可以直接把机器的型号发给我。",
+      "feedback": null,
+      "retriever_resources": [],
+      "created_at": 1794769957,
+      "agent_thoughts": [],
+      "message_files": [],
+      "message_tokens": 3235,
+      "answer_tokens": 45,
+      "provider_response_latency": 1.9039949849247932,
+      "total_price": "0.0027095",
+      "currency": "RMB",
+      "status": "normal",
+      "error": null,
+      "extra_contents": [],
+      "total_tokens": 3280,
+      "extraData": [
+        {
+          "pos": 0,
+          "type": "block_data",
+          "data": {
+            "component": "scan_entry",
+            "data": {
+              "part_type": "consumable"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "7d0ed38a-2935-4368-a696-d079217a6050",
+      "conversation_id": "5fbd6e56-88d6-4d0d-8c76-1e336ddd8669",
+      "parent_message_id": "00000000-0000-0000-0000-000000000000",
+      "query": "你好",
+      "answer": "您好！我是海尔商城的购物助手，很高兴为您服务。\n\n如果您已经看好了哪台商品，可以把它的 **SKU** 发给我，我帮您查详细参数和卖点；如果想对比几台，也可以把它们的 SKU 一起发来。\n\n请问有什么可以帮您的？",
+      "feedback": {
+        "rating": "like"
+      },
+      "retriever_resources": [],
+      "created_at": 1794769964,
+      "agent_thoughts": [],
+      "message_files": [],
+      "message_tokens": 7224,
+      "answer_tokens": 114,
+      "provider_response_latency": 5.354047432541847,
+      "total_price": "0.0522669",
+      "currency": "RMB",
+      "status": "normal",
+      "error": null,
+      "extra_contents": [],
+      "total_tokens": 7338
+    }
+  ]
+}
